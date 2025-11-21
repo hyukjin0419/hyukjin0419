@@ -38,19 +38,20 @@ combined with an Insight tab that visualizes study patterns and weekly progress.
 
 ---
 
-## 🧑‍💻 **Tech Stack**
+## 🧑‍💻 Tech Stack
 
 **Languages**  
-`Java` · `Dart` · `SQL`  
+<img src="https://skillicons.dev/icons?i=java,dart" height="40"/>
 
 **Backend**  
-`Spring Boot` · `Spring Security` · `JPA/Hibernate` · `MySQL` · `JWT`  
+<img src="https://skillicons.dev/icons?i=spring,hibernate,mysql" height="40"/>
 
 **Mobile**  
-`Flutter` · `Provider` · `go_router` · `FCM`  
+<img src="https://skillicons.dev/icons?i=flutter" height="40"/>
 
-**Infrastructure**  
-`AWS Lightsail` · `Nginx` · `Linux`
+**DevOps**  
+<img src="https://skillicons.dev/icons?i=aws,nginx,linux" height="40"/>
+
 
 ---
 

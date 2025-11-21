@@ -13,8 +13,8 @@
 
 ## 📫 Contact
 
-[<img src="https://skillicons.dev/icons?i=gmail" height="32" />](mailto:hjchoi.career@gmail.com)
-[<img src="https://skillicons.dev/icons?i=linkedin" height="32" />](https://www.linkedin.com/in/hyukjinchoi/)
+[![Email](https://img.shields.io/badge/Email-hjchoi.career@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjchoi.career@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hyukjinchoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyukjinchoi/)
 
 
 ---

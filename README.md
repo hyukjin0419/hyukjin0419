@@ -40,6 +40,8 @@ combined with an Insight tab that visualizes study patterns and weekly progress.
 
 ## 🧑‍💻 Tech Stack
 
+<div align="center">
+  
 **Languages**  
 <img src="https://skillicons.dev/icons?i=java,dart" height="40"/>
 
@@ -52,6 +54,7 @@ combined with an Insight tab that visualizes study patterns and weekly progress.
 **DevOps**  
 <img src="https://skillicons.dev/icons?i=aws,nginx,linux" height="40"/>
 
+</div>
 
 ---
 

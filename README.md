@@ -51,7 +51,7 @@ a collaborative checklist & study-group management app for university teams and 
 ---
 ## 📫 Contact
 - Email: hjchoi.career@gmail.com
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/hyukjinchoi
 - Location: Pohang, Korea
 
 ---

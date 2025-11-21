@@ -1,71 +1,79 @@
-## Hi, I'm hyukjin 👋
+<div align="center">
 
+[<img src="https://github.com/user-attachments/assets/2d9d7414-a8f1-4437-bb01-14a1d6df1089" width="90" height="90" />](https://apps.apple.com/kr/app/sync-mate/id6755131308)
 
-I build products that reduce people's cognitive burden -
-software that thinks ahead for the user, removes unnecessary friction, and helps people focus on what truly matters.
+# **Hi, I'm Hyukjin 👋**  
+### Building products that reduce cognitive burden and help people focus on what truly matters.
 
----
+<br>
 
-## 🚀 Current Focus - Sync Mate 
-[<img width="80" height="80" src="https://github.com/user-attachments/assets/2d9d7414-a8f1-4437-bb01-14a1d6df1089" />](https://apps.apple.com/kr/app/sync-mate/id6755131308)
+[<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" height="32">](https://apps.apple.com/kr/app/sync-mate/id6755131308)
 
+</div>
 
-I'm currently leading the end-to-end development of **Sync Mate**,
-a collaborative checklist & study-group management app for university teams and study groups.
-
-- 📱 **Mobile App**: Flutter (iOS & Android)
-- 🧠 **Core Idea**: A dual-layer checklist system that links team tasks with personal tasks, and an Insight dashboard that transforms daily activity into meaningful progress metrics.
-- ☁️ **Backend**: Spring Boot, JPA/Hibernate, MySQL, JWT-based auth, FCM push notifications
-- 🛠 **Infra**: AWS Lightsail, Nginx
-
---- 
-## Tech Stack
-
-**Languages**
-- Java, Dart, SQL
-
-**Backend**
-- Spring Boot, Spring Security, JPA/Hibernate, MySQL
-- REST API design, JWT authentication (access/refresh tokens)
-- Soft delete + scheduled cleanup, Redis (basic usage), validation, exception handling
-
-**Mobile**
-- Flutter, Provider state management
-- Clean routing (go_router), in-memory cache + Repository + Provider pattern
-- FCM push notifications, local notifications
-
-**Infrastructure & DevOps**
-- AWS Lightsail
-- Nginx, Linux
-
-**Product & Execution**
-- End-to-end architecture & service planning
-- API/DB design (ERD), UX flow design
-- Prefetching + optimistic UI, caching strategies
-  
----
-## 📚 What I’m Learning / Working On Now
-
-- Docker and CI/CD techs!
-
----
 ## 📫 Contact
-- Email: hjchoi.career@gmail.com
-- LinkedIn: www.linkedin.com/in/hyukjinchoi
-- Location: Pohang, Korea
+
+[<img src="https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail&logoColor=white" height="24" />](mailto:hjchoi.career@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24" />](https://www.linkedin.com/in/hyukjinchoi/)
 
 ---
-## 🇰🇷 About Me
+
+## 🚀 **Sync Mate — My Main Project**
+
+**A dual-layer checklist system connecting team and personal tasks,  
+combined with an Insight tab that visualizes study patterns and weekly progress.**
+
+- Mobile: **Flutter (iOS)**
+- Backend: **Spring Boot + JPA + MySQL**
+- Auth: **JWT (Access + Refresh Tokens)**
+- Notifications: **FCM Push**
+- Infra: **AWS Lightsail + Nginx**
+
+### ✨ Key Features
+- Linked **Team & Personal Checklists**  
+- **Insight Dashboard** (weekly progress & team contribution)  
+- **Study Member Roles & Management**  
+- **Optimistic UI** with in-memory cache  
+- **Real mobile app deployed on App Store**
+
+---
+
+## 🧑‍💻 **Tech Stack**
+
+**Languages**  
+`Java` · `Dart` · `SQL`  
+
+**Backend**  
+`Spring Boot` · `Spring Security` · `JPA/Hibernate` · `MySQL` · `JWT`  
+
+**Mobile**  
+`Flutter` · `Provider` · `go_router` · `FCM`  
+
+**Infrastructure**  
+`AWS Lightsail` · `Nginx` · `Linux`
+
+---
+
+## 📂 **Featured Repositories**
+
+- 🔹 **[Sync Mate – Backend](https://github.com/hyukjin0419/studyGroupBackEnd)**  
+- 🔹 **[Sync Mate – Frontend (Flutter)](https://github.com/hyukjin0419/studyGroupFrontEnd)**
+
+---
+
+## 🇰🇷 **About Me (Korean)**
 
 안녕하세요, 최혁진입니다.
 
-컴퓨터공학을 전공하고 있고,  
-현재 스터디/팀프로젝트 협업 체크리스트 앱 "Sync Mate"를  
-백엔드(Spring Boot)부터 모바일 앱(Flutter), AWS 배포까지  
-**처음부터 끝까지 직접 설계하고 개발**하고 있습니다.
+현재 **Sync Mate**라는 스터디 협업 앱을  
+백엔드(Spring Boot), 모바일(Flutter), 배포(AWS)까지  
+전부 **단독으로 설계·구현·운영**하고 있습니다.
 
-- 새로운 기술을 "실서비스에 적용해보는 것"을 좋아합니다.
-- 사용자의 인지적 부담을 줄이는 **생각 많은 서비스**를 만들고 싶습니다.
-- 장기적으로는 **SaaS 제품을 직접 기획·개발·운영하는 개발자**가 되는 것이 목표입니다.
+- 사용자의 인지적 부담을 줄이는 소프트웨어에 관심이 많습니다.  
+- 설계 → 구현 → 배포 → 운영까지 **end-to-end 개발**을 좋아합니다.  
+- 장기적으로는 **안정적인 제품을 설계하고 구현하고, 운영하는 백엔드 개발자**를 목표로 하고 있습니다.
 
-감사합니다 🙌
+감사합니다
+
+---
+🌱 I’m currently learning Docker and CI/CD

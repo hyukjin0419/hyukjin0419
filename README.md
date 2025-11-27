@@ -28,7 +28,7 @@ combined with an Insight tab that visualizes study patterns and weekly progress.
 - Backend: **Spring Boot + JPA + MySQL**
 - Auth: **JWT (Access + Refresh Tokens)**
 - Notifications: **FCM Push**
-- Infra: **AWS Lightsail + Nginx**
+- Infra: **AWS Lightsail + Nginx + GitHub Action (CI/CD)**
 
 ### ✨ Key Features
 - Linked **Team & Personal Checklists**  
